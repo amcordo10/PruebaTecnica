@@ -1,0 +1,8 @@
+co/com/pruebaTecnica/userinterface/SearchUser.java
+ co.com.pruebaTecnica.userinterface.SearchUser
+co/com/pruebaTecnica/model/Data.java
+ co.com.pruebaTecnica.model.Data
+co/com/pruebaTecnica/taks/SearchTask.java
+ co.com.pruebaTecnica.taks.SearchTask
+co/com/pruebaTecnica/utils/Urls.java
+ co.com.pruebaTecnica.utils.Urls

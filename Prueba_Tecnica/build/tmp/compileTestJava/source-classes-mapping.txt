@@ -1,0 +1,4 @@
+co/com/pruebaTecnica/runners/StaysRunner.java
+ co.com.pruebaTecnica.runners.StaysRunner
+co/com/pruebaTecnica/stepdefinitions/automated/StaysStepDefinition.java
+ co.com.pruebaTecnica.stepdefinitions.automated.StaysStepDefinition
